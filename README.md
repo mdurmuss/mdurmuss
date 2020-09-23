@@ -12,7 +12,7 @@
 - 📫 How to reach me **mustafa-durmuss@outlook.com**
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.mdurmuss.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem.mdurmuss.vercel.app/api/spotify)](https://open.spotify.com/user/mustafa-durmuss)
 
 
 # Blog posts
