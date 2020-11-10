@@ -28,8 +28,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdurmuss&layout=compact&hide=css,html&langs_count=8&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-
 <p align="center">
-<a href="https://linkedin.com/in/mustafa-durmuş-1a1b04a7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mustafa-durmuş-1a1b04a7" height="30" width="30" /></a>
-<a href="https://mdurmuss.github.io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" height="30" width="30" /></a>
-</p>
+<a href="https://www.linkedin.com/in/mustafadurmuss/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mustafa-durmuş" height="30" width="30" /></a>
+
