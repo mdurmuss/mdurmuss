@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Reinforcement Learning, Natural Language Processing**
 
+- 🤝 I’m looking for help with [**wordPredictor**](https://mdurmuss.github.io/word-prediction/)
+
 - 📝 I regulary write articles on [**mdurmuss.github.io**](https://mdurmuss.github.io)
 
 - 📫 How to reach me **mustafa-durmuss@outlook.com**
