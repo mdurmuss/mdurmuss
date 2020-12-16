@@ -20,7 +20,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-[![Mustafa's github stats](https://github-readme-stats.vercel.app/api?username=mdurmuss&count_private=true&show_icons=true&theme=default)](https://github.com/mdurmuss/github-readme-stats)
+[![Mustafa's github stats](https://github-readme-stats.vercel.app/api?username=mdurmuss&count_private=true&show_icons=true&theme=default)](https://github-readme-stats.vercel.app/api?username=mdurmuss)
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.mdurmuss.vercel.app/api/spotify)](https://open.spotify.com/user/mustafa-durmuss)
