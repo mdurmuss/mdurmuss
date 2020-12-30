@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [**Albert**](https://albert.health/)
 
-- 🌱 I’m currently learning **Reinforcement Learning, Natural Language Processing**
+- 🌱 I’m currently learning **Reinforcement Learning, Natural Language Understanding**
 
 - 🤝 I’m looking for help with [**wordPredictor**](https://mdurmuss.github.io/word-prediction/)
 
