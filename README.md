@@ -26,6 +26,5 @@
 [![Spotify](https://novatorem.mdurmuss.vercel.app/api/spotify)](https://open.spotify.com/user/mustafa-durmuss)
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafadurmuss/)
-[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mdurmus)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/_mdurmus)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_mdurmus)
