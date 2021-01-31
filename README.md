@@ -13,8 +13,9 @@
 
 - 📫 How to reach me **mustafa-durmuss@outlook.com**
 
-# Blog posts
+##  📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [TF-IDF Nedir?](https://mdurmuss.github.io/tf-idf-nedir/)
 - [Python ve İsimlendirme](http://mdurmuss.github.io/python-ve-isimlendirme/)
 - [Python ve Test](http://mdurmuss.github.io/python-ve-test/)
 <!-- BLOG-POST-LIST:END -->
