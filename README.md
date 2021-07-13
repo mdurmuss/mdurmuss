@@ -6,6 +6,8 @@
 <img align="middle" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
 
 - 🔭  I’m currently working on [**Albert**](https://albert.health/)
+- 🌱 I’m currently learning **Natural Language Understanding**, **Question Answering**
+- 🤝 I’m looking for help with [**word-predictor**](https://mdurmuss.github.io/word-prediction/)
 - 📝  I regulary write articles on [**mdurmuss.github.io**](https://mdurmuss.github.io)
 - :goal_net:  I love to contribute to open source projects.
 - 📫 How to reach me **mustafa-durmuss@outlook.com**
