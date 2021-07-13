@@ -21,7 +21,12 @@
 
 [![Mustafa's github stats](https://github-readme-stats.vercel.app/api?username=mdurmuss&count_private=true&show_icons=true&theme=default)](https://github-readme-stats.vercel.app/api?username=mdurmuss)
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
 ### Spotify Playing 🎧
+
 [![Spotify](https://novatorem.mdurmuss.vercel.app/api/spotify)](https://open.spotify.com/user/mustafa-durmuss)
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafadurmuss/)
