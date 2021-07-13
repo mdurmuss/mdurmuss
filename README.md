@@ -3,10 +3,14 @@
 
 ![](https://komarev.com/ghpvc/?username=mdurmuss&color=green)
 
-- 🔭 I’m currently working on [**Albert**](https://albert.health/)
-- 📝 I regulary write articles on [**mdurmuss.github.io**](https://mdurmuss.github.io)
-- :goal_net: I love to contribute to open source projects.
+- 🔭  I’m currently working on [**Albert**](https://albert.health/) <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
+- 📝  I regulary write articles on [**mdurmuss.github.io**](https://mdurmuss.github.io)
+- :goal_net:  I love to contribute to open source projects.
 - 📫 How to reach me **mustafa-durmuss@outlook.com**
+
+
+
+
 
 ##  📚 Latest Blog Posts
 - [TF-IDF Nedir?](https://mdurmuss.github.io/tf-idf-nedir/)
