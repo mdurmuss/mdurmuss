@@ -3,7 +3,9 @@
 
 ![](https://komarev.com/ghpvc/?username=mdurmuss&color=green)
 
-- 🔭  I’m currently working on [**Albert**](https://albert.health/) <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
+
+- 🔭  I’m currently working on [**Albert**](https://albert.health/)
 - 📝  I regulary write articles on [**mdurmuss.github.io**](https://mdurmuss.github.io)
 - :goal_net:  I love to contribute to open source projects.
 - 📫 How to reach me **mustafa-durmuss@outlook.com**
