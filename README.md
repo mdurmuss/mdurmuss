@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">A passionate developer about AI.</h3>
+<h3 align="center">A passionate AI developer.</h3>
 
 ![](https://komarev.com/ghpvc/?username=mdurmuss&color=red)
 
