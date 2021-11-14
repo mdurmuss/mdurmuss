@@ -4,21 +4,12 @@
 ![](https://komarev.com/ghpvc/?username=mdurmuss&color=red)
 
 - 🔭  I’m currently working on [**Albert**](https://albert.health/)
-
-- 🌱 I’m currently learning **Natural Language Understanding**, **Question Answering**
-
-- 🤝 I’m looking for help with [**word-predictor**](https://mdurmuss.github.io/word-prediction/)
-
+- 🌱 I’m currently learning **Natural Language Understanding**, **Question Answering**, **Named Entity Recognition**
+- 🤝 My last open source project was [**word-predictor**](https://mdurmuss.github.io/word-prediction/)
 - 📝  I regulary write articles on [**mdurmuss.github.io**](https://mdurmuss.github.io)
-
 - 📫 How to reach me **mustafa-durmuss@outlook.com**
 
 
-
-##  📚 Latest Blog Posts
-- [TF-IDF Nedir?](https://mdurmuss.github.io/tf-idf-nedir/)
-- [Python ve İsimlendirme](http://mdurmuss.github.io/python-ve-isimlendirme/)
-- [Python ve Test](http://mdurmuss.github.io/python-ve-test/)
 
 [![Mustafa's github stats](https://github-readme-stats.vercel.app/api?username=mdurmuss&count_private=true&show_icons=true&theme=default)](https://github-readme-stats.vercel.app/api?username=mdurmuss)
 
