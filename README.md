@@ -12,7 +12,7 @@
 
 - `Natural Language Processing`
 
-	![image](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white) ![image](https://img.shields.io/badge/-NLTK-orange) ![image](https://img.shields.io/badge/-spaCy-green) ![image](https://img.shields.io/badge/-Hugging Face-orange) ![image](https://img.shields.io/badge/-Rasa-blueviolet)
+	![image](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white) ![image](https://img.shields.io/badge/-NLTK-orange) ![image](https://img.shields.io/badge/-spaCy-green) ![image](https://img.shields.io/badge/-HuggingFace-orange) ![image](https://img.shields.io/badge/-Rasa-blueviolet)
 
 - `Data Science`
 
