@@ -9,11 +9,11 @@
 - 📝  I regulary write articles on [**mdurmuss.github.io**](https://mdurmuss.github.io)
 - 📫 How to reach me **mustafa-durmuss@outlook.com** 
 
-
+[![Mustafa's github stats](https://github-readme-stats.vercel.app/api?username=mdurmuss&count_private=true&show_icons=true&theme=default)](https://github-readme-stats.vercel.app/api?username=mdurmuss)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdurmuss&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Mustafa's github stats](https://github-readme-stats.vercel.app/api?username=mdurmuss&count_private=true&show_icons=true&theme=default)](https://github-readme-stats.vercel.app/api?username=mdurmuss)
+
 
 
 ### Spotify Playing 🎧
