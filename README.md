@@ -7,9 +7,11 @@
 - 🌱 I’m currently learning **Natural Language Understanding**, **Question Answering**, **Named Entity Recognition**
 - 🤝 My last open source project was [**word-predictor**](https://mdurmuss.github.io/word-prediction/)
 - 📝  I regulary write articles on [**mdurmuss.github.io**](https://mdurmuss.github.io)
-- 📫 How to reach me **mustafa-durmuss@outlook.com**
+- 📫 How to reach me **mustafa-durmuss@outlook.com** 
 
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdurmuss&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Mustafa's github stats](https://github-readme-stats.vercel.app/api?username=mdurmuss&count_private=true&show_icons=true&theme=default)](https://github-readme-stats.vercel.app/api?username=mdurmuss)
 
