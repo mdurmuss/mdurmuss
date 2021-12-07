@@ -2,9 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=mdurmuss&color=red)
 
-<p align="center"> 
-<img src="https://memegenerator.net/img/instances/74646680/say-machine-learning-one-more-time.jpg" style="height: 350px; width:670px;"/>
-</p>
 Hi again. I am <b>Mustafa</b> and I live in <b>Istanbul</b>. I am studying for a <b>master's degree</b> in <b>Natural Language Processing</b> (NLP). Beside that I am working as an NLP developer at <b>Albert Health</b>. I like working on projects that solve real world problems using AI and I prefer to continue progressing in that and related business roles.
 
 ### Wallet :bookmark: :necktie:
