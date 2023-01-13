@@ -4,7 +4,7 @@
 
 Hi again. I am <b>Mustafa</b> and I live in <b>Istanbul</b>. I am studying for a <b>master's degree</b> in <b>Natural Language Processing</b> (NLP). Beside that I am working as an NLP developer at <b>Albert Health</b>. I like working on projects that solve real world problems using AI and I prefer to continue progressing in that and related business roles.
 
-### Wallet :bookmark: :necktie:
+### Wallet
 
 - `MACHINE LEARNING`
 
@@ -21,5 +21,3 @@ Hi again. I am <b>Mustafa</b> and I live in <b>Istanbul</b>. I am studying for a
 - `OTHER TOOLS`
 
 	![image](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)  ![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![image](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![image](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)  ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-[![Mustafa's github stats](https://github-readme-stats.vercel.app/api?username=mdurmuss&count_private=true&show_icons=true&theme=default)](https://github-readme-stats.vercel.app/api?username=mdurmuss)
