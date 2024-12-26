@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=mdurmuss&color=red)
 
-Hi, I am <b>Mustafa</b> and I live in <b>Istanbul</b>. I am studying for a <b>master's degree</b> in <b>Data Science</b>. Besides that I am working as an NLP developer at <b>Albert Health</b>. I like working on projects that solve real world problems using AI. Currently working on conversational AI, LLMs, RAG and ETL data pipelines.
+Data Scientist dedicated to developing innovative AI solutions.
 
 ### Wallet
 - `BASE`
