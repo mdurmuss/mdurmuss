@@ -32,8 +32,7 @@ I am a Senior Data Scientist with 6+ years of experience, working in the health,
 	- Analysis of CA engagement patterns in multiple sclerosis users.
 - [**Descriptive analysis of conversational agent usage characteristics in an asthma app**](https://publications.ersnet.org/content/erj/62/suppl67/pa1581)
 	- Usage characteristics of a CA deployed in an asthma self-management app.
-- [Descriptive analysis of conversational agent usage characteristics in an asthma app
-](https://publications.ersnet.org/content/erj/62/suppl67/pa1581)
+
 ## Get in Touch
 
 - [Linkedin](https://www.linkedin.com/in/mustafadurmuss/)
