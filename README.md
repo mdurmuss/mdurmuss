@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Mustafarmuss)</h1>
+# 👋 Hi, I'm Mustafa)</h1>
 
-![](https://komarev.com/ghpvc/?username=mdurmuss&
+![](https://komarev.com/ghpvc/?username=mdurmuss&color=red)
+
 Data Scientist dedicated to developing innovative AI solutions.
 
 
