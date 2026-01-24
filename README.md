@@ -24,13 +24,13 @@ I am a Senior Data Scientist with 6+ years of experience, working in the health,
 	- A retrospective look at conversational agent usage patterns in a mobile health setting.
 - [**A rule-based named entity recognition of SNOMED Clinical Terms in Turkish clinical reports**](https://www.researchgate.net/publication/393145558_A_rule-based_named_entity_recognition_of_SNOMED_Clinical_Terms_in_Turkish_clinical_reports)
 	- A rule-based NER approach for mapping Turkish clinical text to SNOMED codes.
-- [User Engagement with A Multimodal Conversational Agent for Self-Care and Chronic Disease Management: A Retrospective Analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12148993/)
+- [**User Engagement with A Multimodal Conversational Agent for Self-Care and Chronic Disease Management: A Retrospective Analysis**](https://pmc.ncbi.nlm.nih.gov/articles/PMC12148993/)
 	- Retrospective analysis of ~24,500 users examining voice vs. screen interaction and engagement predictors.
-- [Exploring vocal biomarkers as non-invasive fine-tuning assays of cardiovascular health: heart failure model](https://www.researchgate.net/publication/385314628_Exploring_vocal_biomarkers_as_non-invasive_fine-tuning_assays_of_cardiovascular_health_heart_failure_model)
+- [**Exploring vocal biomarkers as non-invasive fine-tuning assays of cardiovascular health: heart failure model**](https://www.researchgate.net/publication/385314628_Exploring_vocal_biomarkers_as_non-invasive_fine-tuning_assays_of_cardiovascular_health_heart_failure_model)
 	- Investigation of vocal features as biomarkers for cardiovascular health.
-- [Conversational agent engagement patterns among individuals with MS: A retrospective analysis of the mHealth application](https://www.researchgate.net/publication/394845794_EPO--781_Conversational_agent_engagement_patterns_among_individuals_with_MS_A_retrospective_analysis_of_the_mHealth_application)
+- [**Conversational agent engagement patterns among individuals with MS: A retrospective analysis of the mHealth application**](https://www.researchgate.net/publication/394845794_EPO--781_Conversational_agent_engagement_patterns_among_individuals_with_MS_A_retrospective_analysis_of_the_mHealth_application)
 	- Analysis of CA engagement patterns in multiple sclerosis users.
-- [Descriptive analysis of conversational agent usage characteristics in an asthma app](https://publications.ersnet.org/content/erj/62/suppl67/pa1581)
+- [**Descriptive analysis of conversational agent usage characteristics in an asthma app**](https://publications.ersnet.org/content/erj/62/suppl67/pa1581)
 	- Usage characteristics of a CA deployed in an asthma self-management app.
 - [Descriptive analysis of conversational agent usage characteristics in an asthma app
 ](https://publications.ersnet.org/content/erj/62/suppl67/pa1581)
