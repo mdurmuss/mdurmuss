@@ -1,7 +1,6 @@
-# 👋 Hi, I'm Mustafa
+# 👋 Hi, I'm Mustafarmuss)</h1>
 
-![](https://komarev.com/ghpvc/?username=mdurmuss&color=red)
-
+![](https://komarev.com/ghpvc/?username=mdurmuss&
 Data Scientist dedicated to developing innovative AI solutions.
 
 
@@ -18,9 +17,20 @@ I am a Senior Data Scientist with 6+ years of experience, working in the health,
 - Agent-Based Architectures
 - Recommendation Systems
 
+## Research Projects
 
----
+- [The Use of Conversational Agents in Self-Management: A Retrospective Analysis](https://www.medrxiv.org/content/10.1101/2024.09.01.24312881v1)
+-  [A rule-based named entity recognition of SNOMED Clinical Terms in Turkish clinical reports](https://www.researchgate.net/publication/393145558_A_rule-based_named_entity_recognition_of_SNOMED_Clinical_Terms_in_Turkish_clinical_reports)
+- [User Engagement with A Multimodal Conversational Agent for Self-Care and Chronic Disease Management: A Retrospective Analysis
+](https://pmc.ncbi.nlm.nih.gov/articles/PMC12148993/)
+- [Exploring vocal biomarkers as non-invasive fine-tuning assays of cardiovascular health: heart failure model
+](https://www.researchgate.net/publication/385314628_Exploring_vocal_biomarkers_as_non-invasive_fine-tuning_assays_of_cardiovascular_health_heart_failure_model)
 
+- [Conversational agent engagement patterns among individuals with MS: A retrospective analysis of the mHealth application
+](https://www.researchgate.net/publication/394845794_EPO--781_Conversational_agent_engagement_patterns_among_individuals_with_MS_A_retrospective_analysis_of_the_mHealth_application)
+
+- [Descriptive analysis of conversational agent usage characteristics in an asthma app
+](https://publications.ersnet.org/content/erj/62/suppl67/pa1581)
 ## Get in Touch
 
 - [Linkedin](https://www.linkedin.com/in/mustafadurmuss/)
