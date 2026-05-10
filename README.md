@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mustafa)</h1>
+# 👋 Hi, I'm Mustafa</h1>
 
 ![](https://komarev.com/ghpvc/?username=mdurmuss&color=red)
 
